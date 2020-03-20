@@ -1,29 +1,25 @@
-## Welcome to GitHub Pages
+## Wear Your Mask Right
 
-You can use the [editor on GitHub](https://github.com/wearyourmaskright/wearyourmaskright.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### So how to put on a mask? 
 
-### Markdown
+Wearing a mask could be difficult for first-timers. **Fear not**, we are here to help.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Before we start, just make sure your mask and hands are clean (did you sing a birthday song when you wash your hands with SOAP?), and you are wearing it in a clean environment. All good? Let’s get started.
 
-```markdown
-Syntax highlighted code block
+- First, inspect if the mask has any hole or tear, if there’s one, get another one, as it will not be as protective as it should be. 
 
-# Header 1
-## Header 2
-### Header 3
+- Then you'd need to know which side is the “outer layer” of the mask, usually, that would be the coloured side of the mask. 
 
-- Bulleted
-- List
+- Found it? Good, then you will need to find the metal strip, that’s the top of the mask. The metal strip will allow the mask to fit your face. 
 
-1. Numbered
-2. List
+- Okay! You are ready to put on your mask. Assuming you are using a mask with ear loops, hold your mask with the ear loop, then place the loop around your ear. Remember the coloured-side is the outside of the mask.
 
-**Bold** and _Italic_ and `Code` text
+- Once you have put the mask on, adjust the mask to the shape of your nose by slightly bending the metal strip on top of the mask. 
 
-[Link](url) and ![Image](src)
+- Once you have put it on, pull the bottom of the mask down to your chin, make sure it covers your nose, mouth and your chin. It is a good time to check if the mask is fitted closely to your face - if you wear glass and if it fogs up when you breathe - it is unfitted. Simply adjust the metal strip again!
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
