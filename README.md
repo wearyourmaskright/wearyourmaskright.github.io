@@ -1,33 +1,60 @@
-## Wear Your Mask Right
+# [Start Bootstrap - Bare](https://startbootstrap.com/template-overviews/bare/)
 
+[Bare](http://startbootstrap.com/template-overviews/bare/) is a bare HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features predefined file paths for Bootstrap and jQuery, so you can quickly create Bootstrap websites.
 
-### So how to put on a mask? 
+## Preview
 
-Wearing a mask could be difficult for first-timers. **Fear not**, we are here to help.
+[![Bare Preview](https://startbootstrap.com/assets/img/templates/bare.jpg)](https://blackrockdigital.github.io/startbootstrap-bare/)
 
-- Before we start, just make sure your mask and hands are clean (did you sing a birthday song when you wash your hands with SOAP?), and you are wearing it in a clean environment. All good? Let’s get started.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-bare/)**
 
-- First, inspect if the mask has any hole or tear, if there’s one, get another one, as it will not be as protective as it should be. 
+## Status
 
-- Then you'd need to know which side is the “outer layer” of the mask, usually, that would be the coloured side of the mask. 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-bare/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-bare.svg)](https://www.npmjs.com/package/startbootstrap-bare)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-bare.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-bare)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-bare/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-bare)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-bare/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-bare?type=dev)
 
-- Found it? Good, then you will need to find the metal strip, that’s the top of the mask. The metal strip will allow the mask to fit your face. 
+## Download and Installation
 
-- Okay! You are ready to put on your mask. Assuming you are using a mask with ear loops, hold your mask with the ear loop, then place the loop around your ear. Remember the coloured-side is the outside of the mask.
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/bare/)
+* Install via npm: `npm i startbootstrap-bare`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-bare.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-bare)
 
-- Once you have put the mask on, adjust the mask to the shape of your nose by slightly bending the metal strip on top of the mask. 
+## Usage
 
-- Once you have put it on, pull the bottom of the mask down to your chin, make sure it covers your nose, mouth and your chin. It is a good time to check if the mask is fitted closely to your face - if you wear glass and if it fogs up when you breathe - it is unfitted. Simply adjust the metal strip again!
+### Basic Usage
 
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-```
+### Advanced Usage
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-### Jekyll Themes
+You must have npm and Gulp installed globally on your machine in order to use these features.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wearyourmaskright/wearyourmaskright.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Bugs and Issues
 
-### Support or Contact
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-bare/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/bare/).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-bare/blob/gh-pages/LICENSE) license.
